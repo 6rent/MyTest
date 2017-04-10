@@ -1,1 +1,1 @@
-This is a test Readme. It was edited.
+This is a test Readme. Plain and simple.
